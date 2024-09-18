@@ -1,0 +1,1 @@
+# ShopSphere_1.0.0
